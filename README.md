@@ -1,4 +1,4 @@
-我的其他工作在https://gitee.com/NoahIsARider/kimi-assisted_model_training看到
+我的其他工作在https://gitee.com/NoahIsARider/kimi-assisted_model_training 看到
 
 这里是有关批量测试的内容
 
